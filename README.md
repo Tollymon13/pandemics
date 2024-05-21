@@ -24,6 +24,3 @@ This reduction can be observed by looking at the three sub-populations and how t
 
 ## Result
 ![image](https://github.com/Tollymon13/pandemics/assets/159135691/27b8af3c-e92a-4143-a7d6-16c16bd37d28)
-
-## Limiting value of R(T)
-![image](https://github.com/Tollymon13/pandemics/assets/159135691/be104c51-1dd1-4763-ab8e-488690e5ee66)
